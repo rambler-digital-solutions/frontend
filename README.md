@@ -13,5 +13,5 @@
 - Увеличение уровня вовлеченности разработчиков путем их заинтересованности.
 
 #### Что здесь есть?
-- [RDSFront&Meetup](/RDSFront&Meetup/README.md)
-- [RDSFront&Friday](/RDSFront&Friday/README.md)
+- [RDSFront&Meetup](/RDSFront&Meetup)
+- [RDSFront&Friday](/RDSFront&Friday)

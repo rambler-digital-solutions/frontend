@@ -74,6 +74,7 @@
 
 ##### Обзор Electron - Десктопные приложения на JS - Дмитрий Баранов
 Ссылки по теме:
+- [Презентация с выступления](/RDSFront&Friday/archive/files/ff09_electron.pptx)
 - [Краткое описание большинства методов API (на русском)](https://gist.github.com/mrmlnc/bd130dc6852fe423ec03)
 - [Awesome Electron](https://github.com/sindresorhus/awesome-electron)
 - [Статья - Создание приложения для создания скриншотов, их редактирования и публикации на сервер](https://habrahabr.ru/post/316880/)
@@ -107,6 +108,7 @@
 
 ##### Инструмент для измерения производительности сайта в Chrome - Timeline - Павел Кондратенко
 Ссылки по теме:
+- [Презентация с выступления](/RDSFront&Friday/archive/files/ff06_timeline.key)
 - [Оценки производительности сайта от Google - PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=ru)
 - [Курс на Udacity по оптимизации](https://www.udacity.com/course/website-performance-optimization--ud884)
 
@@ -126,9 +128,13 @@
 - [Screeps](https://screeps.com/)
 - [Vim Adventures](https://vim-adventures.com/)
 
-## Front&Friday №4 (11.02.2016)
+## Front&Friday №4 (11.11.2016)
 
 ##### Вам не нужен JavaScript - замена элементов на JS аналогами на CSS - Валерия Токарева
+Ссылки по теме:
+- [Сборник примеров You Might Not Need JavaScript](http://youmightnotneedjs.com/)
+- [Еще один подобный сборник You Dont Need Javascript](https://github.com/you-dont-need/You-Dont-Need-Javascript)
+- [Статья - 10 популярных фронтенд-элементов, для реализации которых не нужен JavaScript](https://tproger.ru/digest/you-might-not-need-js/)
 
 ##### Обзор Webpack2. Что нового, в чем отличия от 1-ой версии - Евгений Аббакумов
 
@@ -137,14 +143,24 @@
 ##### Fetch API - альтернатива XMLHttpRequest и jQuery.ajax() - [Михаил Хромов](https://github.com/mikesilence)
 
 ##### Функциональное программирование на JS - Михаил Дунаев
+Ссылки по теме:
+- [Презентация с выступления](/RDSFront&Friday/archive/files/ff03_function-programming.key)
+- [Функциональный жаргон](https://github.com/hemanth/functional-programming-jargon)
+- [Gitbook по функциональному программированию](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 
-## Front&Friday №2 (3.02.2017)
+## Front&Friday №2 (21.10.2016)
 
 ##### Yarn - замена npm от Facebook и Google - Алексей Серебряков
 
-##### Обзор Angular2 - Артем Даньшин
+##### Обзор Angular2 - [Артем Даньшин](https://github.com/ArtDanshin)
+Ссылки по теме:
+- [Официальный сайт Angular 2](https://angular.io/)
+- [CLI для удобной генерации элементов Angular](https://cli.angular.io/)
+- [Server-side Rendering](https://universal.angular.io/)
+- [Создание мобильных приложений на Angular 2](https://mobile.angular.io/)
+- [Официальный набор компонентов в Material стиле](https://material.angular.io/)
 
-## Front&Friday №1 (3.02.2017)
+## Front&Friday №1 (14.10.2016)
 
 ##### Основные нововведения HTML 5.2 - Артем Цацин
 

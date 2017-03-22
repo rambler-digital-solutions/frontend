@@ -42,7 +42,7 @@
 
 ## Front&Friday №14 (10.02.2017)
 
-##### Продвинутая работа с Git - Алексей Серебряков
+##### Продвинутая работа с Git - [Алексей Серебряков](https://github.com/AlexRarus)
 
 ##### Обзор MongoDB - Немного баз данных на Frontend завтраке - Дмитрий Григоров
 
@@ -150,7 +150,7 @@
 
 ## Front&Friday №2 (21.10.2016)
 
-##### Yarn - замена npm от Facebook и Google - Алексей Серебряков
+##### Yarn - замена npm от Facebook и Google - [Алексей Серебряков](https://github.com/AlexRarus)
 
 ##### Обзор Angular2 - [Артем Даньшин](https://github.com/ArtDanshin)
 Ссылки по теме:

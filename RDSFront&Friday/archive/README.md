@@ -1,5 +1,21 @@
 ### Архив с отчетами по встречам RDSFront&Friday 
 
+## Front&Friday №18 (24.03.2017)
+
+##### Проект Houdini, или что мы сможем сделать с CSS в будущем - [Сергей Топунов](https://github.com/plnttr1003/)
+Ссылки по теме:
+- [Спецификация на сайта W3C](https://drafts.css-houdini.org/)
+- [Спецификация на Github'е](https://github.com/w3c/css-houdini-drafts)
+- [Примеры уже реализованного функционала](https://github.com/googlechrome/houdini-samples)
+- [Статья на русском о том, что это и зачем](https://habrahabr.ru/company/mailru/blog/282027/)
+- [Видео - Доклад Ryan Seddon о Houdini](https://vimeo.com/163676398)
+
+##### Нововведения React Router 4 - [Павел Клочков](https://github.com/ckomop0x)
+Ссылки по теме:
+- [Официальный репозиторий](https://github.com/ReactTraining/react-router)
+- [Курс от EggHead](https://egghead.io/courses/add-routing-to-react-apps-using-react-router-v4)
+- [Github репозиторий с материалами курса](https://github.com/eggheadio-projects/egghead-react-router-v4)
+
 ## Front&Friday №17 (17.03.2017)
 
 ##### Progressive Web App(PWA) - Что это такое и зачем? - Павел Поваляев
@@ -48,9 +64,9 @@
 
 ## Front&Friday №13 (3.02.2017)
 
-##### SVG анимации - Сергей Топунов
+##### SVG анимации - [Сергей Топунов](https://github.com/plnttr1003/)
 
-##### Docker для Frontend разработчика - Павел Клочков
+##### Docker для Frontend разработчика - [Павел Клочков](https://github.com/ckomop0x)
 
 ## Front&Friday №12 (27.01.2017)
 
@@ -164,4 +180,4 @@
 
 ##### Основные нововведения HTML 5.2 - Артем Цацин
 
-##### CSS-модули - удобная верстка без BEM? Мечта или реальность? - Павел Клочков
+##### CSS-модули - удобная верстка без BEM? Мечта или реальность? - [Павел Клочков](https://github.com/ckomop0x)

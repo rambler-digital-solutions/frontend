@@ -52,7 +52,16 @@
 
 ## Front&Friday №15 (3.03.2017)
 
-##### Общий обзор веб-компонентов(HTML Imports, Custom Elements, HTML Templates, Shadow DOM) - Антон Игнатов
+##### Общий обзор веб-компонентов(HTML Imports, Custom Elements, HTML Templates, Shadow DOM) - [Антон Игнатов](https://github.com/a-ignatov-parc/)
+Ссылки по теме:
+- [Презентация с выступления](https://cloudup.com/c2bcIzwVMbR)
+- [База знаний и галерея веб-компонентов](https://www.webcomponents.org/)
+- [Web Components specifications at github](https://github.com/w3c/webcomponents)
+- [Custom Elements v1](https://developers.google.com/web/fundamentals/getting-started/primers/customelements)
+- [Shadow DOM v1](https://developers.google.com/web/fundamentals/getting-started/primers/shadowdom)
+- [What's New in Shadow DOM v1](https://hayato.io/2016/shadowdomv1/)
+- [HTML Templates](https://www.html5rocks.com/en/tutorials/webcomponents/template/)
+- [HTML Imports](https://www.html5rocks.com/en/tutorials/webcomponents/imports/)
 
 ##### Разработка мобильных приложений с помощью React Native - Павел Кондратенко
 

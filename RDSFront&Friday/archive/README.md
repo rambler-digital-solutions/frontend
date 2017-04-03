@@ -1,5 +1,15 @@
 ### Архив с отчетами по встречам RDSFront&Friday 
 
+## Front&Friday №19 (31.03.2017)
+
+##### Доступный Web и aria атрибуты. Зачем? Для чего? Для кого? - [Дмитрий Нестеренко](https://github.com/nesterenko0602)
+Ссылки по теме:
+- [Презентация с выступления](/RDSFront&Friday/archive/files/ff19_aria.pdf)
+
+##### Обзор Web Animation API - Алексей Зюзин
+Ссылки по теме:
+- [Цикл обучающих статей о Web Animation API](http://css-live.ru/articles/pogovorim-ob-web-animations-api.html)
+
 ## Front&Friday №18 (24.03.2017)
 
 ##### Проект Houdini, или что мы сможем сделать с CSS в будущем - [Сергей Топунов](https://github.com/plnttr1003/)

@@ -86,6 +86,9 @@
 ##### SVG анимации - [Сергей Топунов](https://github.com/plnttr1003/)
 
 ##### Docker для Frontend разработчика - [Павел Клочков](https://github.com/ckomop0x)
+Ссылки по теме:
+- [Официальные контейнеры с самыми разными технологиями на борту](https://hub.docker.com/explore/)
+- [NodeJS и Docker](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
 
 ## Front&Friday №12 (27.01.2017)
 

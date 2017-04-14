@@ -3,8 +3,13 @@
 ## Front&Friday №21 (14.04.2017)
 
 ##### Новый тип данных в JS - Symbol. Что это, зачем и какая область применения - [Алексей Серебряков](https://github.com/AlexRarus)
+Ссылки по теме:
+- [Книга ES6 и не только - Кайл Симпсон](http://www.ozon.ru/context/detail/id/137473815/)
+- [Страница про Symbol на learn.javascript.ru](https://learn.javascript.ru/symbol)
 
 ##### Что хорошего в Typescript - Дмитрий Баранов
+Ссылки по теме:
+- [Официльный сайт TypeScript](https://www.typescriptlang.org/)
 
 ## Front&Friday №20 (7.04.2017)
 

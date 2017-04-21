@@ -1,5 +1,23 @@
 ### Архив с отчетами по встречам RDSFront&Friday 
 
+## Front&Friday №22 (21.04.2017)
+
+##### Как сделать так, чтобы ваш JS код работал в два раза быстрее - Павел Кондратенко
+Ссылки по теме:
+- [Презентация с выступления](/RDSFront&Friday/archive/files/ff22_js-speed.key)
+- [Книга O'Reilly - Data Structures and Algorithms with JavaScript](http://shop.oreilly.com/product/0636920029557.do)
+- [Раздел DataStructures на HackerRank](https://www.hackerrank.com/domains/data-structures)
+- [Про трансдьюсеры](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624)
+
+##### Web Workers API - Параллельное выполнение JS? - Павел Поваляев
+Ссылки по теме:
+- [Документация на MDN](https://developer.mozilla.org/en-US/docs/Web/API/Worker)
+- [Введение в Web Worker'ы на MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
+- [Небольшой видео курс](https://www.youtube.com/playlist?list=PLTGuLY9dBAgCEpYU_qWvoHIihbZILSQ9D)
+- [Решение проблемы запуска Web Worker'ов при разработке в Chrome](http://stackoverflow.com/questions/21751775/web-worker-settings-for-chrome)
+- [Статья про эксперимент по переносу рендеринга реакта в веб-воркеры](http://blog.nparashuram.com/2016/02/using-webworkers-to-make-react-faster.html)
+- [Cтатья про новые типы данных для настоящей параллелизации вычислений](http://2ality.com/2017/01/shared-array-buffer.html)
+
 ## Front&Friday №21 (14.04.2017)
 
 ##### Новый тип данных в JS - Symbol. Что это, зачем и какая область применения - [Алексей Серебряков](https://github.com/AlexRarus)

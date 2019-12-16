@@ -1,10 +1,10 @@
-### Архив с отчетами по встречам RDSFront&Friday 
+### Архив с отчетами по первым встречам RDSFront&Friday за 2016-2017 года
 
 ## Front&Friday №22 (21.04.2017)
 
 ##### Как сделать так, чтобы ваш JS код работал в два раза быстрее - Павел Кондратенко
 Ссылки по теме:
-- [Презентация с выступления](/RDSFront&Friday/archive/files/ff22_js-speed.key)
+- [Презентация с выступления](/RDSFront&Friday/1season_2016-2017/files/ff22_js-speed.key)
 - [Книга O'Reilly - Data Structures and Algorithms with JavaScript](http://shop.oreilly.com/product/0636920029557.do)
 - [Раздел DataStructures на HackerRank](https://www.hackerrank.com/domains/data-structures)
 - [Про трансдьюсеры](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624)
@@ -33,7 +33,7 @@
 
 ##### Наименования классов в CSS. Как держать чистыми и понятными свои стили - [Артем Даньшин](https://github.com/ArtDanshin)
 Ссылки по теме:
-- [Презентация с выступления](/RDSFront&Friday/archive/files/ff20_css-naming.key)
+- [Презентация с выступления](/RDSFront&Friday/1season_2016-2017/files/ff20_css-naming.key)
 
 ##### Функциональное реактивное программирование(Bacon.js, RxJS) -  Чем такие библиотеки и подходы могут помочь? - [Антон Игнатов](https://github.com/a-ignatov-parc/)
 
@@ -60,7 +60,7 @@
 
 ##### Доступный Web и aria атрибуты. Зачем? Для чего? Для кого? - [Дмитрий Нестеренко](https://github.com/nesterenko0602)
 Ссылки по теме:
-- [Презентация с выступления](/RDSFront&Friday/archive/files/ff19_aria.pdf)
+- [Презентация с выступления](/RDSFront&Friday/1season_2016-2017/files/ff19_aria.pdf)
 
 ##### Обзор Web Animation API - Алексей Зюзин
 Ссылки по теме:
@@ -168,7 +168,7 @@
 
 ##### Обзор Electron - Десктопные приложения на JS - Дмитрий Баранов
 Ссылки по теме:
-- [Презентация с выступления](/RDSFront&Friday/archive/files/ff09_electron.pptx)
+- [Презентация с выступления](/RDSFront&Friday/1season_2016-2017/files/ff09_electron.pptx)
 - [Краткое описание большинства методов API (на русском)](https://gist.github.com/mrmlnc/bd130dc6852fe423ec03)
 - [Awesome Electron](https://github.com/sindresorhus/awesome-electron)
 - [Статья - Создание приложения для создания скриншотов, их редактирования и публикации на сервер](https://habrahabr.ru/post/316880/)
@@ -202,7 +202,7 @@
 
 ##### Инструмент для измерения производительности сайта в Chrome - Timeline - Павел Кондратенко
 Ссылки по теме:
-- [Презентация с выступления](/RDSFront&Friday/archive/files/ff06_timeline.key)
+- [Презентация с выступления](/RDSFront&Friday/1season_2016-2017/files/ff06_timeline.key)
 - [Оценки производительности сайта от Google - PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=ru)
 - [Курс на Udacity по оптимизации](https://www.udacity.com/course/website-performance-optimization--ud884)
 
@@ -238,7 +238,7 @@
 
 ##### Функциональное программирование на JS - Михаил Дунаев
 Ссылки по теме:
-- [Презентация с выступления](/RDSFront&Friday/archive/files/ff03_function-programming.key)
+- [Презентация с выступления](/RDSFront&Friday/1season_2016-2017/files/ff03_function-programming.key)
 - [Функциональный жаргон](https://github.com/hemanth/functional-programming-jargon)
 - [Gitbook по функциональному программированию](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 

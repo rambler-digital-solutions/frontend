@@ -1,5 +1,24 @@
 ### Архив с отчетами по последним встречам RDSFront&Friday 
 
+## Front&Friday №3 (24.01.2020)
+
+#### Шрифты - современные способы их вставки на сайт - Алексей Дибривный
+Ссылки по теме:
+- [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts)
+- [WEB web font loading recipes](https://github.com/zachleat/web-font-loading-recipes)
+- [Виталий Фридман – New Adventures in Responsive Web Design](https://youtu.be/rgHLV2fe-2I?t=1264)
+- [Supercharge Google Fonts with Cloudflare and Service Workers](https://medium.com/@jirafe/supercharge-google-fonts-with-cloudflare-and-service-workers-25c37462fb6a)
+- [Web Font Optimisation](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=en)
+- [Developing a Robust Font Loading Strategy for CSS-Tricks (тут показан пример использования консольной утилиты pyftsubset для создания поднабора для первого этапа)](https://www.zachleat.com/web/css-tricks-web-fonts/)
+
+#### Проекты для тренировки навыков разработчика - [Артём Даньшин](https://github.com/ArtDanshin)
+- [Статья - Front-end додзё: проекты для тренировки навыков разработчика](https://habr.com/ru/company/edison/blog/479100/)
+- [Полезная рассылка от HTML Academy](https://htmlacademy.ru/blog/academy/mailing)
+- [ThemeForest - платные шаблоны для верстки](https://themeforest.net/category/sketch-templates)
+- [100 Days CSS Challenge](https://100dayscss.com/)
+- [Javascript 30 - 30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
+- [Статья Github - Browse good first issues to start contributing to open source](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/)
+
 ## Front&Friday №2 (27.12.2019)
 
 #### Веб компоненты - Максим Глинка

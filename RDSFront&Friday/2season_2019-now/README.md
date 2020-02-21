@@ -1,5 +1,20 @@
 ### Архив с отчетами по последним встречам RDSFront&Friday 
 
+## Front&Friday №5 (21.02.2020)
+
+#### Утечки памяти в JS - основные причины и методы борьбы - Антонина Листопадова
+- [Презентация с выступления](https://www.figma.com/proto/oKVSUo2Z5KxhXzA58y3J5h/Web-accessibility?node-id=5%3A0&scaling=min-zoom)
+
+Ссылки по теме:
+- [Утечки памяти в замыканиях JavaScript](https://habr.com/ru/post/146784/)
+- 4 вида утечек памяти в JavaScript и как с ними бороться: [оригинал](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/) и [перевод](https://habr.com/ru/post/309318/)
+- [Пример утечки памяти](https://developer.chrome.com/devtools/docs/demos/memory/example1)
+
+#### Что такое EventLoop в JavaScript, и как он работает? - Максим Глинка
+Ссылки по теме:
+- [Спецификация по Event Loop](https://html.spec.whatwg.org/multipage/webappapis.html#event-loop-processing-model)
+- [Статья с MDN про queueMicrotask()](https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API/Microtask_guide)
+
 ## Front&Friday №4 (7.02.2020)
 
 #### Нужны ли нам SPA - Алексей Резаков
@@ -19,6 +34,7 @@
 - [Developing a Robust Font Loading Strategy for CSS-Tricks (тут показан пример использования консольной утилиты pyftsubset для создания поднабора для первого этапа)](https://www.zachleat.com/web/css-tricks-web-fonts/)
 
 #### Проекты для тренировки навыков разработчика - [Артём Даньшин](https://github.com/ArtDanshin)
+Ссылки по теме:
 - [Статья - Front-end додзё: проекты для тренировки навыков разработчика](https://habr.com/ru/company/edison/blog/479100/)
 - [Полезная рассылка от HTML Academy](https://htmlacademy.ru/blog/academy/mailing)
 - [ThemeForest - платные шаблоны для верстки](https://themeforest.net/category/sketch-templates)
@@ -37,6 +53,7 @@
 - ['Критика и обалденно важное мнение'](https://habr.com/ru/post/443032/)
 
 #### Docker для Frontend разработчика - Павел Поваляев
+Ссылки по теме:
 - [Документация по Docker](https://docs.docker.com/)
 - [Доклад Алексея Авдеева - Docker для фронтендера](https://habr.com/ru/post/478932/)
 

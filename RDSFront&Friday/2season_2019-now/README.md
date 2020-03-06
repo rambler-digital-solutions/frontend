@@ -1,5 +1,29 @@
 ### Архив с отчетами по последним встречам RDSFront&Friday 
 
+## Front&Friday №6 (6.03.2020)
+
+#### Оптимизация загрузки и производительности CSS - [Жукова Елена](https://www.instagram.com/lenochka_shark/)
+- [Презентация с выступления](/RDSFront&Friday/2season_2019-now/files/ff06_fast-css.key)
+
+Ссылки по теме:
+- [7 советов по оптимизации CSS для ускорения загрузки страниц](https://habr.com/ru/post/459878/)
+- [Улучшение производительности CSS](https://webformyself.com/7-tryukov-po-uluchsheniyu-proizvoditelnosti-css/)
+- [Почему у нас нет селектора по родителю](https://web-standards.ru/articles/parent-selector/)
+- [33 способа ускорить ваш фронтенд](https://habr.com/ru/company/badoo/blog/320558/)
+
+#### CORS - Кто он такой, чтобы блокировать наши запросы? - [Артём Даньшин](https://github.com/ArtDanshin)
+- [Презентация с выступления](/RDSFront&Friday/2season_2019-now/files/ff06_cors.key)
+
+Ссылки по теме:
+- [Википедия о Same-Origin Policy](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE_%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD%D0%B0)
+- [MDN o Same-Origin Policy](https://developer.mozilla.org/ru/docs/Web/Security/Same-origin_policy)
+- [Википедия о JSONP](https://ru.wikipedia.org/wiki/JSONP)
+- [Википедия о CORS](https://ru.wikipedia.org/wiki/Cross-origin_resource_sharing)
+- [MDN о CORS](https://developer.mozilla.org/ru/docs/Web/HTTP/CORS)
+- [Статья "Что такое CORS"](https://webdevblog.ru/chto-takoe-cors/)
+- [Статья "Using Cors"](https://www.html5rocks.com/en/tutorials/cors/)
+
+
 ## Front&Friday №5 (21.02.2020)
 
 #### Утечки памяти в JS - основные причины и методы борьбы - Антонина Листопадова

@@ -1,4 +1,25 @@
-### Архив с отчетами по последним встречам RDSFront&Friday 
+### Архив с отчетами по последним встречам Front&Friday 
+
+## Front&Friday Remote №1 (10.04.2020)
+
+#### Мониторинг Frontend приложений. Зачем, как и с помощью чего  - [Артем Даньшин](https://github.com/ArtDanshin)
+Ссылки по теме:
+- [Sentry](https://sentry.io/)
+- [Pingdom Testing Tool](https://tools.pingdom.com/)
+- [Puppeteer - Headless Chrome API](https://github.com/puppeteer/puppeteer)
+- [Lighthouse Node CLI](https://github.com/GoogleChrome/lighthouse)
+- [Мой пример реализации простого теста производительности страниц с помощью Puppeteer и Lighthouse](https://github.com/ArtDanshin/lighthouse-puppeteer-monitoring)
+- [Пример интеграции Puppeteer и Lighthouse из официальной документации](https://github.com/GoogleChrome/lighthouse/blob/master/docs/puppeteer.md)
+
+#### Leaflet - Делаем крутые карты на наших сайтах. …а может и не только карты? - Сергей Топунов
+Ссылки по теме:
+- [Leaflet - Открытая и легкая библиотека для работы с картами](https://leafletjs.com/)
+- [Mapbox - Компания, занимающаяся картами, ПО для карт и другими продукатами](https://www.mapbox.com/)
+- [Mapbox Studio - Онлайн студия для работы с пользовательскими картами](https://studio.mapbox.com/)
+- [OpenStreetMap - Опенсорсная карта. Пример работы Leaflet'а](https://www.openstreetmap.org/)
+- [Retromap - Карты разных времен размеченные с помощью Leaflet'а](http://www.retromap.ru/m/#051952_0420092)
+- [Кастомная карта Москвы с трассировкой дорожек. Пример работы Mapbox Studio](https://dvorulitsa.urbica.co/)
+- [Cхема зала Рамблер/кассы](https://wa.kassa.rambler.ru/event/53401589/ff9c4c90-e864-4d42-ba98-de3ea619c6e6/htt)
 
 ## Front&Friday №6 (6.03.2020)
 

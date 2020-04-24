@@ -1,5 +1,17 @@
 ### Архив с отчетами по последним встречам Front&Friday 
 
+## Front&Friday Remote №2 (24.04.2020)
+
+#### Differential Serving - Делаем свой код чище и производительнее в зависимости от браузера - [Елена Жукова](https://www.instagram.com/lenochka_shark/)
+Ссылки по теме:
+- [Подкаст shoptalkshow](https://shoptalkshow.com/347/)
+- [Модули, введение (Learn.JavaScript)](https://learn.javascript.ru/modules-intro)
+- [Модули в es6 (Mozilla Hacks)](https://hacks.mozilla.org/2015/08/es6-in-depth-modules/)
+- [Что такое Differential Serving? Статья с примерами](https://github.com/johnstew/differential-serving)
+- [Differential Serving vs. Polyfill Service](https://medium.com/@imdongchen/differential-serving-vs-polyfill-service-how-to-best-serve-modern-and-legacy-browsers-e5bb40ba73e8)
+
+#### Нужен ли нам jQuery в 2020 году? - Алексей Резаков
+
 ## Front&Friday Remote №1 (10.04.2020)
 
 #### Мониторинг Frontend приложений. Зачем, как и с помощью чего  - [Артем Даньшин](https://github.com/ArtDanshin)
@@ -23,7 +35,7 @@
 
 ## Front&Friday №6 (6.03.2020)
 
-#### Оптимизация загрузки и производительности CSS - [Жукова Елена](https://www.instagram.com/lenochka_shark/)
+#### Оптимизация загрузки и производительности CSS - [Елена Жукова](https://www.instagram.com/lenochka_shark/)
 - [Презентация с выступления](/RDSFront&Friday/2season_2019-now/files/ff06_fast-css.key)
 
 Ссылки по теме:

@@ -1,5 +1,35 @@
 ### Архив с отчетами по последним встречам Front&Friday 
 
+## Front&Friday Remote №4 (5.06.2020)
+
+#### Deno - Убийца NodeJS? Или попытка растрясти мир серверной разработки на JS? - Павел Поваляев
+Ссылки по теме:
+- [Документация](https://deno.land/manual)
+- [Статья - Deno 1.0: What you need to know](https://blog.logrocket.com/deno-1-0-what-you-need-to-know/)
+- [Видео с JSConf EU: Ryan Dahl - 10 Things I Regret About Node.js](https://www.youtube.com/watch?v=M3BM9TB-8yA)
+- [Видео с TSConf 2019: Ryan Dahl & Kitson Kelly - Deno is a New Way to JavaScript](https://www.youtube.com/watch?v=1gIiZfSbEAE)
+- [Видео Academind: What is Deno & Will it replace Node.js?](https://www.youtube.com/watch?v=3Vl8a3zYjiw)
+- [Видео Deno: Node.js Killer? Introduction & Tutorial | From Creator Ryan Dahl](https://www.youtube.com/watch?v=3Vt_cjgojDI)
+- Поиграться с Deno можно тут: [Deno Town](https://deno.town/) и [Deno Playground](https://deno-playground.now.sh)
+
+#### Как организовать свой день, чтобы все получалось? - Алина Шаймарданова
+Ссылки по теме:
+- [Проект от Tilda с инфографиками про распорядки дня](https://shoptalkshow.com/347/)
+- [Приложение, симулирующее сторонний шум](https://noiz.io/)
+- Приложения по методу Помодоро:
+  - [Focus To-Do (Desktop)](https://www.focustodo.cn/)
+  - [Focusito (Mac App Store)](https://apps.apple.com/ru/app/focusito-%D0%BD%D0%B5%D0%BE-%D0%BF%D0%BE%D0%BC%D0%BE%D0%B4%D0%BE%D1%80%D0%BE-%D1%82%D0%B0%D0%B9%D0%BC%D0%B5%D1%80/id1473808464?mt=12)
+  - [Be Focused (iOS App Store)](https://apps.apple.com/ru/app/be-focused-focus-timer/id973130201)
+- [Приложение для матрицы Матрица Эйзенхауэра (Mac App Store)](https://apps.apple.com/ru/app/focus-matrix-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87/id1087284172?mt=12)
+
+## Front&Friday Remote №3 (15.05.2020)
+
+#### Кто такой Senior Frontend разработчик? - Антонина Листопадова
+#### Новинки спецификации JavaScript 2020 года - Игорь Самусев
+Ссылки по теме:
+- [Статья - ECMAScript 2020: the final feature set](https://2ality.com/2019/12/ecmascript-2020.html)
+- [Статья - Нововведения JavaScript ES2020 с простыми примерами](https://habr.com/ru/company/plarium/blog/485362/)
+
 ## Front&Friday Remote №2 (24.04.2020)
 
 #### Differential Serving - Делаем свой код чище и производительнее в зависимости от браузера - [Елена Жукова](https://www.instagram.com/lenochka_shark/)

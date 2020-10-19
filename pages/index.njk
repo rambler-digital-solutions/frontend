@@ -1,0 +1,10 @@
+---
+layout: application.njk
+title: Главная страница
+---
+
+<ul>
+  {%- for friday in collections.friday -%}
+    <li>{{ friday.data.title }}</li>
+  {%- endfor -%}
+</ul>

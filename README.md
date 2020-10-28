@@ -1,6 +1,6 @@
 #### RDSFront&Community
 
-![RDSFront&Community Logo](/_images/community_logo.png)
+![RDSFront&Community Logo](_images/community_logo.png)
 
 #### Что это такое?
 Это целый стек событий и подходов вокруг которых создается целое коммьюнити внутри компании. 
@@ -13,5 +13,5 @@
 - Увеличение уровня вовлеченности разработчиков путем их заинтересованности.
 
 #### Что здесь есть?
-- [RDSFront&Meetup](/RDSFront&Meetup)
-- [RDSFront&Friday](/RDSFront&Friday)
+- [RDSFront&Meetup](RDSFront&Meetup)
+- [RDSFront&Friday](RDSFront&Friday)

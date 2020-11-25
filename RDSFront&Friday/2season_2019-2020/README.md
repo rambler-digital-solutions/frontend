@@ -66,7 +66,7 @@
 ## Front&Friday №6 (6.03.2020)
 
 #### Оптимизация загрузки и производительности CSS - [Елена Жукова](https://www.instagram.com/lenochka_shark/)
-- [Презентация с выступления](/RDSFront&Friday/2season_2019-now/files/ff06_fast-css.key)
+- [Презентация с выступления](/RDSFront&Friday/2season_2019-2020/files/ff06_fast-css.key)
 
 Ссылки по теме:
 - [7 советов по оптимизации CSS для ускорения загрузки страниц](https://habr.com/ru/post/459878/)
@@ -75,7 +75,7 @@
 - [33 способа ускорить ваш фронтенд](https://habr.com/ru/company/badoo/blog/320558/)
 
 #### CORS - Кто он такой, чтобы блокировать наши запросы? - [Артём Даньшин](https://github.com/ArtDanshin)
-- [Презентация с выступления](/RDSFront&Friday/2season_2019-now/files/ff06_cors.key)
+- [Презентация с выступления](/RDSFront&Friday/2season_2019-2020/files/ff06_cors.key)
 
 Ссылки по теме:
 - [Википедия о Same-Origin Policy](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE_%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD%D0%B0)

@@ -1,5 +1,25 @@
 ### Архив с отчетами по последним встречам Front&Friday 
 
+## Front&Friday №3 (27.11.2020)
+
+#### Оптимизация загрузки картинок: обзор подходов - [Милена Подлевских](https://www.instagram.com/weirddark_/)
+- [Презентация с выступления](/RDSFront&Friday/3season_2020-now/files/ff03_images.pdf)
+
+Ссылки по теме:
+- [Статья "Оптимизация графики для веба: самое важное"](https://habr.com/ru/post/422531/)
+- [Статья "Действительно ли WebP лучше JPEG?"](https://medium.com/@inna_netum/%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE-%D0%BB%D0%B8-webp-%D0%BB%D1%83%D1%87%D1%88%D0%B5-jpeg-91639d852035)
+- [Статья "Оптимизация загрузки изображений"](https://habr.com/ru/post/482820/)
+- [Статья "The Complete Guide to Lazy Loading Images"](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
+- [Статья "Lazy Loading Images in React for Better Performance"](https://levelup.gitconnected.com/lazy-loading-images-in-react-for-better-performance-5df73654ea05)
+
+#### CI/CD для фронтенд-разработчиков - Владимир Высокий
+- [Презентация с выступления](https://docs.google.com/presentation/d/1MzBZ_9UKXEUFhtaawm1wBYLOY_UzSJWUIg6dQ8F_DhQ)
+
+Ссылки по теме:
+- [Репозиторий из презентации для просто демонстрации работы Gitlab CI](https://gitlab.com/vladimirvysokiy/frontendci)
+- [Документация по GitLab CI/CD](https://docs.gitlab.com/ee/ci/)
+- [Документаци по Docker](https://www.docker.com/)
+
 ## Front&Friday №2 (13.11.2020)
 
 #### Как перестать бояться и полюбить Итераторы - Алексей Резаков

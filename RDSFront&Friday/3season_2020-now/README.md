@@ -1,5 +1,26 @@
 ### Архив с отчетами по последним встречам Front&Friday 
 
+## Front&Friday №5 (29.01.2021)
+
+#### Git Rebase - Почему эту команду должен знать каждый разработчик? На что она способна? - Игорь Самусев
+- [Презентация с выступления](https://yadi.sk/d/nfsRk6qqNaEkag)
+
+Ссылки по теме:
+- [Статья "Изучаем git. merge vs rebase для начинающих"](https://webdevkin.ru/posts/raznoe/izuchaem-git-merge-vs-rebase-dlya-nachinayushhix)
+- [Использование git в командной строке](https://gitexplorer.com/)
+- [Статья "Git Rebase: руководство по использованию"](https://habr.com/ru/post/161009/)
+- [Статья "Обзор Git Rebase"](http://forasoft.github.io/git-rebase-overview/)
+
+#### Webpack v5 - Новинки новой версии. Пора ли обновлять наши проекты? - Павел Поваляев
+- [Презентация с выступления](https://drive.google.com/file/d/1zsbQA8U_quVXDpheFCo4adPSGYQuHQtg/view)
+
+Ссылки по теме:
+- [Пресс-релиз webpack@5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)
+- [Статья "Module Federation" @medium](https://medium.com/swlh/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669)
+- [Статья "Yarn PnP"](https://yarnpkg.com/features/pnp)
+- [exports в package.json (доки webpack)](https://nodejs.org/api/packages.html#packages_exports)
+
+
 ## Front&Friday №3 (27.11.2020)
 
 #### Оптимизация загрузки картинок: обзор подходов - [Милена Подлевских](https://www.instagram.com/weirddark_/)

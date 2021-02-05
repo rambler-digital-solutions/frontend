@@ -4,6 +4,7 @@
 
 #### Git Rebase - Почему эту команду должен знать каждый разработчик? На что она способна? - Игорь Самусев
 - [Презентация с выступления](https://yadi.sk/d/nfsRk6qqNaEkag)
+- [Видос с выступления](https://disk.yandex.ru/i/Caq8q57yhUejRg)
 
 Ссылки по теме:
 - [Статья "Изучаем git. merge vs rebase для начинающих"](https://webdevkin.ru/posts/raznoe/izuchaem-git-merge-vs-rebase-dlya-nachinayushhix)
@@ -13,12 +14,14 @@
 
 #### Webpack v5 - Новинки новой версии. Пора ли обновлять наши проекты? - Павел Поваляев
 - [Презентация с выступления](https://drive.google.com/file/d/1zsbQA8U_quVXDpheFCo4adPSGYQuHQtg/view)
+- [Видос с выступления (немножко ускорено, а то комп умирал и не хотел его конвертить)](https://disk.yandex.ru/i/jWVoSaPM3WZ6ig)
 
 Ссылки по теме:
 - [Пресс-релиз webpack@5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)
 - [Статья "Module Federation" @medium](https://medium.com/swlh/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669)
 - [Статья "Yarn PnP"](https://yarnpkg.com/features/pnp)
-- [exports в package.json (доки webpack)](https://nodejs.org/api/packages.html#packages_exports)
+- [exports в package.json](https://nodejs.org/api/packages.html#packages_exports)
+- [доки webpack](https://webpack.js.org/guides/package-exports/)
 
 
 ## Front&Friday №3 (27.11.2020)

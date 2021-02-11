@@ -2,7 +2,7 @@
 
 ## Front&Friday №6 (12.02.2021)
 
-#### Core Web Vitals - Как Google решил оценивать сайты - Елена Жукова
+#### Core Web Vitals - Как Google решил оценивать сайты - [Елена Жукова](https://www.instagram.com/lenochka_shark/)
 - Презентация с выступления (скоро будет)
 
 Ссылки по теме:

@@ -1,10 +1,29 @@
-### Архив с отчетами по последним встречам Front&Friday 
+### Архив с отчетами по последним встречам Front&Friday
+
+## Front&Friday №6 (12.02.2021)
+
+#### Core Web Vitals - Как Google решил оценивать сайты - Елена Жукова
+- Презентация с выступления (скоро будет)
+
+Ссылки по теме:
+- [Статья "Core Web Vitals: новый ориентир для продвижения"](https://vc.ru/seo/185642-core-web-vitals-novyy-orientir-dlya-prodvizheniya-v-google-na-2021-god)
+- [Статья "Tools to measure Core Web Vitals"](https://web.dev/vitals-tools/)
+- [Статья "Evaluating page experience for a better web"](https://developers.google.com/search/blog/2020/05/evaluating-page-experience)
+- [Статья "Core Web Vitals"](https://backlinko.com/hub/seo/core-web-vitals)
+
+#### Puppeteer - Обзор возможностей, и с чем он нам может помочь - Николай Зенюткин
+- Презентация с выступления(скоро будет)
+
+Ссылки по теме:
+- [Документация Puppeteer](https://pptr.dev/)
+- [Гитхаб репозиторий](https://github.com/puppeteer/puppeteer)
+- [NPM репозиторий](https://www.npmjs.com/package/puppeteer)
+
 
 ## Front&Friday №5 (29.01.2021)
 
 #### Git Rebase - Почему эту команду должен знать каждый разработчик? На что она способна? - Игорь Самусев
 - [Презентация с выступления](https://yadi.sk/d/nfsRk6qqNaEkag)
-- [Видос с выступления](https://disk.yandex.ru/i/Caq8q57yhUejRg)
 
 Ссылки по теме:
 - [Статья "Изучаем git. merge vs rebase для начинающих"](https://webdevkin.ru/posts/raznoe/izuchaem-git-merge-vs-rebase-dlya-nachinayushhix)
@@ -14,7 +33,6 @@
 
 #### Webpack v5 - Новинки новой версии. Пора ли обновлять наши проекты? - Павел Поваляев
 - [Презентация с выступления](https://drive.google.com/file/d/1zsbQA8U_quVXDpheFCo4adPSGYQuHQtg/view)
-- [Видос с выступления (немножко ускорено, а то комп умирал и не хотел его конвертить)](https://disk.yandex.ru/i/jWVoSaPM3WZ6ig)
 
 Ссылки по теме:
 - [Пресс-релиз webpack@5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)

@@ -12,7 +12,7 @@
 - [Статья "Core Web Vitals"](https://backlinko.com/hub/seo/core-web-vitals)
 
 #### Puppeteer - Обзор возможностей, и с чем он нам может помочь - Николай Зенюткин
-- Презентация с выступления(скоро будет)
+- [Код с выступления](https://github.com/ZenutkinN/puppeteer)
 
 Ссылки по теме:
 - [Документация Puppeteer](https://pptr.dev/)

@@ -1,9 +1,35 @@
 ### Архив с отчетами по последним встречам Front&Friday
 
+
+## Front&Friday №8 (09.04.2021)
+
+#### Бекенд для чайников: обзор и сравнение языков - Владислав Копылов
+- [Презентация с выступления] (https://disk.yandex.ru/d/Mr4SwV_nZcIPmw)
+
+Ссылки по теме:
+- [Документация PHP](https://www.php.net/manual/en/)
+- [Документация Python](https://www.python.org/doc/)
+- [Документация Ruby](https://www.ruby-lang.org/en/documentation/quickstart/)
+- [Документация Golang](https://golang.org/doc/)
+- [Документация Elixir](https://elixir-lang.org/learning.html)
+- [Документация Clojure](https://clojure.org/guides/getting_started)
+- [Документация Codewars](https://www.codewars.com/)
+
+Дополнительные ссылки:
+- [Travel&Tuesday](https://ramblercoteam.slack.com/archives/C01MD1V3KB3)
+- [Статья про kotlin от Аркадия](https://vk.com/wall114457721_7017)
+
+
+#### Кто такой fullstack разработчик? - Плюсы и минусы - Артем Даньшин
+
+Ссылки по теме:
+- [Статья про fullstack-разработчика и комменты в конце](https://habr.com/ru/post/278467/)
+- ["И швец, и жнец. Кто такой Full Stack разработчик и как им стать?"](https://javarush.ru/groups/posts/2673-i-shvec-i-zhnec-kto-takoy-full-stack-razrabotchik-i-kak-im-statjh)
+
 ## Front&Friday №6 (12.02.2021)
 
 #### Core Web Vitals - Как Google решил оценивать сайты - [Елена Жукова](https://www.instagram.com/lenochka_shark/)
-- Презентация с выступления (скоро будет)
+- [Статья с выступления](https://habr.com/ru/company/rambler_group/blog/544904/)
 
 Ссылки по теме:
 - [Статья "Core Web Vitals: новый ориентир для продвижения"](https://vc.ru/seo/185642-core-web-vitals-novyy-orientir-dlya-prodvizheniya-v-google-na-2021-god)

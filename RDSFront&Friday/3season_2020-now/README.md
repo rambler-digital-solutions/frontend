@@ -4,7 +4,7 @@
 ## Front&Friday №8 (09.04.2021)
 
 #### Бекенд для чайников: обзор и сравнение языков - Владислав Копылов
-- [Презентация с выступления] (https://disk.yandex.ru/d/Mr4SwV_nZcIPmw)
+- [Презентация с выступления](https://disk.yandex.ru/d/Mr4SwV_nZcIPmw)
 
 Ссылки по теме:
 - [Документация PHP](https://www.php.net/manual/en/)

@@ -21,6 +21,8 @@
 
 
 #### Кто такой fullstack разработчик? - Плюсы и минусы - Артем Даньшин
+- [Презентация с выступления](https://docs.google.com/presentation/d/1ps7T4hi0-5M5YPbWEkOo0XciptPc_8aJeaGWE5BYDE8/edit?usp=sharing)
+
 
 Ссылки по теме:
 - [Статья про fullstack-разработчика и комменты в конце](https://habr.com/ru/post/278467/)

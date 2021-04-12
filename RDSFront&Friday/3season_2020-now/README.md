@@ -13,11 +13,11 @@
 - [Документация Golang](https://golang.org/doc/)
 - [Документация Elixir](https://elixir-lang.org/learning.html)
 - [Документация Clojure](https://clojure.org/guides/getting_started)
-- [Документация Codewars](https://www.codewars.com/)
 
 Дополнительные ссылки:
 - [Travel&Tuesday](https://ramblercoteam.slack.com/archives/C01MD1V3KB3)
 - [Статья про kotlin от Аркадия](https://vk.com/wall114457721_7017)
+- [Сервис Codewars](https://www.codewars.com/)
 
 
 #### Кто такой fullstack разработчик? - Плюсы и минусы - Артем Даньшин

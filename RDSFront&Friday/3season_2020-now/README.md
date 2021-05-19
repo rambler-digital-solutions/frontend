@@ -1,5 +1,22 @@
 ### Архив с отчетами по последним встречам Front&Friday
 
+## Front&Friday №9 (23.04.2021)
+
+#### UX-навыки, дизайн мышление и зачем прокачиваться в этом направлении - Алексей Дибривный
+
+#### Сможет ли No-code заменить фронтов? - Милена Подлевских
+- [Презентация с выступления](https://drive.google.com/file/d/1RSgJP7hX5fZvREaRttot8f822tv5nlK4/view?usp=sharing)
+
+Ссылки по теме:
+- [Статья про No-Code, написана в отличной легкой форме с кучей рассуждений и примеров практического использования](https://vas3k.ru/blog/nocode/)
+- [Парочка сайтиков с подборками No-Code продуктов](https://nocodelist.co/)
+- [И еще один](https://www.nocode.tech/)
+- [Статья "No-code и сферы его применения"](https://nuancesprog.ru/p/10990/)
+- [Статья "Движение No-code — конец программистов? Разбираем плюсы и минусы"](https://vc.ru/services/146312-dvizhenie-no-code-konec-programmistov-razbiraem-plyusy-i-minusy)
+- [Статья "6 no-code инструментов для быстрого запуска продуктов и автоматизации процессов"](https://habr.com/ru/post/516544/)
+- [Статья "Почему стоит обратить внимание на подход low-code/no-code"](https://habr.com/ru/company/Voximplant/blog/542696/)
+- [Статья "Что такое No-Code и как он устроен"](https://ru.hexlet.io/blog/posts/chto-takoe-no-code-i-kak-on-ustroen)
+
 
 ## Front&Friday №8 (09.04.2021)
 
@@ -27,6 +44,13 @@
 Ссылки по теме:
 - [Статья про fullstack-разработчика и комменты в конце](https://habr.com/ru/post/278467/)
 - ["И швец, и жнец. Кто такой Full Stack разработчик и как им стать?"](https://javarush.ru/groups/posts/2673-i-shvec-i-zhnec-kto-takoy-full-stack-razrabotchik-i-kak-im-statjh)
+
+## Front&Friday №7 (05.03.2021)
+
+#### Экскурсы в историю. Обозревание технологий прошлого, которые повлияли на настоящее - Алексей Резаков
+
+#### Content Indexing API. Страницы, доступные в offline - Антонина Листопадова
+- [Статья с выступления](https://habr.com/ru/company/rambler_group/blog/555084/)
 
 ## Front&Friday №6 (12.02.2021)
 

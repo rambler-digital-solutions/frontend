@@ -14,7 +14,8 @@
 
 
 #### Что такое эмоциональное выгорание и как с ним бороться (истории из жизни) - Елена Жукова и Артём Даньшин
-- [Презентация с выступления](https://docs.google.com/presentation/d/1xFqiFJzdmYVVDiLICTcbvT4FSfjdMD62rua5an4Qv6s/edit?usp=sharing)
+- [Презентация с выступления от Лены](https://drive.google.com/file/d/1aS8SglgPXuTNVP_J8dWvrq8Pg5ZYBSBx/view?usp=sharing)
+- [Презентация с выступления от Артема](https://docs.google.com/presentation/d/1xFqiFJzdmYVVDiLICTcbvT4FSfjdMD62rua5an4Qv6s/edit?usp=sharing)
 
 Ссылки по теме:
 - [Эмоциональное выгорание: факты, мифы и цифры.](https://zen.yandex.ru/media/id/5f875cc5b8d88c21215b6586/emocionalnoe-vygoranie-fakty-mify-i-cifry-6042119a9e9a5735c1123037)

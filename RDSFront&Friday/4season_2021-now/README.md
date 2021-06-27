@@ -3,7 +3,7 @@
 ## FrontendTALKS #4.1 (24.06.2021)
 
 #### Алгоритмы и структуры данных в Frontend - Милена Подлевских
--[Презентация с выступления](https://drive.google.com/file/d/1Ex5_ci1pPiu4C-qKiR7nid6WCmVTngw9/view?usp=sharing)
+- [Презентация с выступления](https://drive.google.com/file/d/1Ex5_ci1pPiu4C-qKiR7nid6WCmVTngw9/view?usp=sharing)
 
 Ссылки по теме:
 - [Алгоритмы и структуры данных простыми словами (видео)](https://youtu.be/CB9bS46vl04)
@@ -11,7 +11,7 @@
 
 
 #### Паттерны проектирования в Frontend - Павел Поваляев
--[Презентация с выступления](https://drive.google.com/file/d/1PQBZhRG7Qnpoj_AgpPjGTuRWk0X44HbP/view?usp=sharing)
+- [Презентация с выступления](https://drive.google.com/file/d/1PQBZhRG7Qnpoj_AgpPjGTuRWk0X44HbP/view?usp=sharing)
 
 Ссылки по теме:
 - [Паттерны проектирования](https://refactoring.guru/ru/design-patterns)

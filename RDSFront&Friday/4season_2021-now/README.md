@@ -1,6 +1,6 @@
-### Архив с отчетами по последним встречам FrontendTALKS
+### Архив с отчетами по последним встречам Frontend‹TALKS›
 
-## FrontendTALKS #4.2 (15.07.2021)
+## Frontend‹TALKS› #4.2 (15.07.2021)
 
 #### Опыт создания монорепозитория на JS + GitlabCI – Владислав Яндимиркин
 - [Презентация с выступления](https://docs.google.com/presentation/d/1GDkdctRIstQfievJv6qRBp-qmRYH2xdc/edit?usp=sharing&ouid=115189978785261566227&rtpof=true&sd=true)
@@ -16,7 +16,7 @@
 
 
 
-## FrontendTALKS #4.1 (24.06.2021)
+## Frontend‹TALKS› #4.1 (24.06.2021)
 
 #### Алгоритмы и структуры данных в Frontend - Милена Подлевских
 - [Презентация с выступления](https://drive.google.com/file/d/1Ex5_ci1pPiu4C-qKiR7nid6WCmVTngw9/view?usp=sharing)
@@ -36,7 +36,7 @@
 
 
 
-## FrontendTALKS #4.0 (03.06.2021)
+## Frontend‹TALKS› #4.0 (03.06.2021)
 
 #### Введение в разнообразие БД, или откуда у нас такой такой зоопарк баз данных - Владислав Копылов
 - [Презентация с выступления](https://drive.google.com/file/d/1IMG_aPvyubD5ioa6JRCEr_ctX-0CIzZh/view?usp=sharing)

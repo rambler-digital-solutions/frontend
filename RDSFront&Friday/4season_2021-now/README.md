@@ -3,6 +3,10 @@
 ## FrontendTALKS #4.2 (15.07.2021)
 
 #### Опыт создания монорепозитория на JS + GitlabCI – Владислав Яндимиркин
+- [Презентация с выступления](https://docs.google.com/presentation/d/1GDkdctRIstQfievJv6qRBp-qmRYH2xdc/edit?usp=sharing&ouid=115189978785261566227&rtpof=true&sd=true)
+
+Ссылки по теме:
+- [Список ссылок по теме](https://thevlad.ru/blog/ts-gitlab-ci)
 
 
 #### Web Workers API - Выносим выполнение JS кода в отдельный поток – Наталья Габитова

@@ -42,6 +42,7 @@
 - [Презентация с выступления](https://drive.google.com/file/d/1IMG_aPvyubD5ioa6JRCEr_ctX-0CIzZh/view?usp=sharing)
 
 Ссылки по теме:
+- [Статья с материалами выступления](https://kopilov-vlad.medium.com/какую-базу-данных-выбрать-под-свой-проект-264a265db188)
 - [Статья Откуда такой зоопарк баз данных или введение в разнообразие БД](https://kopilov-vlad.medium.com/%D0%BE%D1%82%D0%BA%D1%83%D0%B4%D0%B0-%D1%82%D0%B0%D0%BA%D0%BE%D0%B9-%D0%B7%D0%BE%D0%BE%D0%BF%D0%B0%D1%80%D0%BA-%D0%B1%D0%B0%D0%B7-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B8%D0%BB%D0%B8-%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D0%B5-%D0%B1%D0%B4-a99a0fc2371c)
 - [SQL (psql)](https://www.postgresql.org/)
 - [Redis](https://redis.io/)

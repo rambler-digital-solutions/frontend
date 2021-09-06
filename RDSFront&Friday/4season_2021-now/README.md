@@ -9,7 +9,7 @@
 
 
 #### Docker. Что за зверь? Нужен ли фронтендеру? – Игорь Самусев
-- [Презентация с выступления]()
+- [Презентация с выступления](https://docs.google.com/presentation/d/1hVzWJjw8FqaGtKgt4Lu-6Ii-RsEH6hRw/edit?usp=sharing&ouid=115189978785261566227&rtpof=true&sd=true)
 
 Ссылки по теме указаны в презентации.
 

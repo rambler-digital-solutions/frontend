@@ -1,4 +1,4 @@
-### Frontend‹TALKS› (ex RDSFront&Friday)
+# Frontend‹TALKS› (ex RDSFront&Friday)
 
 ![Frontend‹TALKS› Logo](/_images/frontend-talks-for-meeting-1.png)
 ![RDSFront&Friday Logo](/_images/friday_logo.jpg)

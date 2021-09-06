@@ -1,5 +1,6 @@
 ### Frontend‹TALKS› (ex RDSFront&Friday)
 
+![Frontend‹TALKS› Logo](/_images/frontend-talks-for-meeting-1.png)
 ![RDSFront&Friday Logo](/_images/friday_logo.jpg)
 
 Frontend‹TALKS› (ex Front&Friday) - это небольшие посиделки Frontend разработчиков компании. Здесь нет докладов в привычном смысле, здесь главное это диалог и обмен знаниями.

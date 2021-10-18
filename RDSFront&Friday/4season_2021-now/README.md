@@ -1,5 +1,35 @@
 # Архив с отчетами по последним встречам Frontend‹TALKS›
 
+## Frontend‹TALKS› #4.4 (23.09.2021)
+
+#### Как работает React под капотом – Алексей Резаков
+- [Презентация с выступления](https://drive.google.com/file/d/1PSU1ahc7LdUufA9T76ssvHttw9gLeZI8/view?usp=sharing)
+
+Ссылки по теме:
+- [Документация Реакта: React Components, Elements, and Instances](https://reactjs.org/blog/2015/12/18/react-components-elements-and-instances.html)
+- [Документация Реакта: Виртуальный DOM и детали его реализации в React](https://ru.reactjs.org/docs/faq-internals.html)
+- [Документация Реакта: Согласование (reconciliation)](https://ru.reactjs.org/docs/reconciliation.html)
+- [Статья: React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
+- [Статья: What Do You Know About the New Fiber Structure of React.js](https://medium.com/habilelabs/what-do-you-know-about-the-new-fiber-structure-of-react-js-d3f955deb4fd)
+- [Статья: The how and why on React’s usage of linked list in Fiber to walk the component’s tree](https://indepth.dev/posts/1007/the-how-and-why-on-reacts-usage-of-linked-list-in-fiber-to-walk-the-components-tree)
+- [Статья: Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://indepth.dev/posts/1008/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react)
+- [Статья: In-depth explanation of state and props update in React](https://indepth.dev/posts/1009/in-depth-explanation-of-state-and-props-update-in-react)
+- [Видео: How Does React Actually Work? React.js Deep Dive #1](https://www.youtube.com/watch?v=7YhdqIR2Yzo)
+- [Видео: Understanding React's UI Rendering Process](https://www.youtube.com/watch?v=i793Qm6kv3U)
+- [Видео: RND.JS #9: Дмитрий Ивахненко. Как работает React](https://www.youtube.com/watch?v=wMdjrU2apNg)
+- [Видео: "React Fiber - будущее уже здесь", Илья Климов](https://www.youtube.com/watch?v=gULfnbZ7dJk)
+- [Видео: Подробно о React Reconciliation, или Как React добился 60 fps](https://www.youtube.com/watch?v=NPXJnKytER4&t=1794s)
+- [Видео: Lin Clark - A Cartoon Intro to Fiber - React Conf 2017](https://www.youtube.com/watch?v=ZCuYPiUIONs&t=1063s)
+- [Видео: Virtual DOM - основной алгоритм React.js](https://www.youtube.com/watch?v=gb-93KcTRFo&t=450s)
+
+
+#### Будущее Frontend разработки: что набирает популярность и куда движется развитие? – Яна Олесова
+- [Презентация с выступления](https://docs.google.com/presentation/d/1nYHpWCdywaf-K5TpkhI1MKzFaAbsP-u7S6aEduSUSAY/edit?usp=sharing)
+
+Ссылки по теме указаны в презентации.
+
+
+
 ## Frontend‹TALKS› #4.3 (02.09.2021)
 
 #### Утечки памяти в веб-приложениях и как с ними бороться – Анастасия Зайцева

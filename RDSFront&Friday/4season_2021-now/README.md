@@ -1,5 +1,20 @@
 # Архив с отчетами по последним встречам Frontend‹TALKS›
 
+## Frontend‹TALKS› #4.5 (02.12.2021)
+
+#### Разбираемся с useMemo. Когда не стоит его использовать – Анатолий Сурмач
+- [Презентация с выступления](https://docs.google.com/presentation/d/1pNx0Dq746QF4g8S1g0Ad5iJV8_3Xpl4d/edit?usp=sharing&ouid=115189978785261566227&rtpof=true&sd=true)
+
+Ссылки по теме указаны в презентации.
+
+
+#### TypeScript 4.4 - 4.5: Новые фичи и важные изменения – Милена Подлевских
+- [Презентация с выступления](https://docs.google.com/presentation/d/1pOcIQf7Z1HZ7DUAoLAyojreUNIg250zs/edit?usp=sharing&ouid=115189978785261566227&rtpof=true&sd=true)
+
+Ссылки по теме указаны в презентации.
+
+
+
 ## Frontend‹TALKS› #4.4 (23.09.2021)
 
 #### Как работает React под капотом – Алексей Резаков
